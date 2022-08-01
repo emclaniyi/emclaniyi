@@ -11,7 +11,7 @@ I’m also an ambassador for Women in AI Nigeria focused on driving women’s in
 
 About Me:
 
-- 🔭 I’m currently working on an AI powered SAAS tool to improve email marketing.
+- 🔭 I’m currently working on an AI powered SAAS tool to optimize email marketing campaigns.
 - 🌱 I’m currently learning Data Product Management.
 - 👯 I’m looking to collaborate on projects to improve sutomer expereince through Artificial Intelligence and Machine Learning.
 - 🤔 I’m currently open to hiring for data scientist and machine learning engineering positions. [My Resume](https://drive.google.com/file/d/1Km2ZDmp4r2Ffz0pFDq5cxXawHccvbtwr/view?usp=sharing)
